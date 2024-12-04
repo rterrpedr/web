@@ -1,0 +1,21 @@
+body {
+    color: rgb(95, 25, 36);
+    background: rgb(0, 0, 0);
+    
+}
+
+header{
+    border-bottom: solid 1px;
+    font-size:32px;
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
+
+div{
+    margin:20px;
+    font-family: "Protest Strike", sans-serif;
+}
+
+
+iframe{
+    margin:20px;
+}
